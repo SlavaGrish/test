@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="d7b1d914-bdc4-4d0f-8d85-6f3469199987" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
+=======
+    <list default="true" id="d7b1d914-bdc4-4d0f-8d85-6f3469199987" name="Default Changelist" comment="" />
+>>>>>>> c2d164f9c1f26a1a6634d2beffe80066f52d3ca1
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +22,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="260">
               <caret line="13" column="230" selection-start-line="13" selection-start-column="230" selection-end-line="13" selection-end-column="230" />
+=======
+            <state relative-caret-position="220">
+              <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+>>>>>>> c2d164f9c1f26a1a6634d2beffe80066f52d3ca1
             </state>
           </provider>
         </entry>
@@ -131,11 +140,16 @@
       <workItem from="1590843780354" duration="2610000" />
       <workItem from="1590846607841" duration="35000" />
       <workItem from="1590847255662" duration="305000" />
+      <workItem from="1590847852576" duration="262000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="13170000" />
+=======
+    <option name="totallyTimeSpent" value="13203000" />
+>>>>>>> c2d164f9c1f26a1a6634d2beffe80066f52d3ca1
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -150,7 +164,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49716714" visible="true" weight="0.16308725" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49716714" visible="true" weight="0.16510066" />
       <window_info id="Structure" order="1" sideWeight="0.5028329" side_tool="true" weight="0.1442953" />
       <window_info id="Favorites" order="2" side_tool="true" weight="0.3295302" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -194,8 +208,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="260">
           <caret line="13" column="230" selection-start-line="13" selection-start-column="230" selection-end-line="13" selection-end-column="230" />
+=======
+        <state relative-caret-position="220">
+          <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+>>>>>>> c2d164f9c1f26a1a6634d2beffe80066f52d3ca1
         </state>
       </provider>
     </entry>
